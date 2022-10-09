@@ -1,0 +1,21 @@
+{
+  "name": "h5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-vue": "2.7.0",
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "vue": "^3.2.40"
+  }
+}
